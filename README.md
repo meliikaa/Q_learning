@@ -99,6 +99,6 @@ The following parameters can be adjusted in the q_learning.py script:
 
 4- epsilon: The probability of choosing a random action (as opposed to the greedy action) in the epsilon-greedy policy.
 
-**Results
+**Results**
 
 After training, the agent should have learned an optimal policy for navigating the grid and reaching the goal state. The reward history plot should show a gradual increase in total reward over episodes.
